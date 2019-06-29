@@ -5,3 +5,4 @@ bash gitConfig.sh
 bash nodejs.sh
 bash npmGlobal.sh
 bash docker.sh
+bash swapFile.sh
